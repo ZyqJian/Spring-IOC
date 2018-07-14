@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--scop-->
+    <!--lazy-init-->
+    <!--init-->
+    <bean id="userDao" class="com.zyq.dao.UserDao">
+      <!--  <property name="userService" ref="userService"/>-->
+        <!--使用构造方法进行注入-->
+        <!--name:指的是被传入的参数的名称-->
+      <!--  <constructor-arg name="userService" ref="userService"/>-->
+    </bean>
+    
+    <bean id="userService" class="com.zyq.sevice.UserService"/>
+
+    <!--基本类型以及集合的注入-->
+    <bean id="studentService" class="com.zyq.sevice.StudentService">
+        <property name="age" value="18"/>
+        <property name="name" value="zyq"/>
+        <!--注入别的类-->
+        <property name="userDao" ref="userDao"/>
+        <property name="map">
+            <!--map是键值对-->
+            <map>
+                <entry key="aa" value="123"/>
+                <entry key="bb" value="456"/>
+            </map>
+        </property>
+
+        <property name="list">
+            <list>
+                <value>list1</value>
+                <value>list2</value>
+            </list>
+        </property>
+
+        <property name="doubles">
+            <set>
+                <value>77.77</value>
+                <value>88.88</value>
+            </set>
+        </property>
+
+        <!--Hashtable  Map 键值对-->
+        <property name="properties">
+            <props>
+                <prop key="zwww">123456</prop>
+                <prop key="zzz">7809</prop>
+            </props>
+        </property>
+    </bean>
+
+
+</beans>
