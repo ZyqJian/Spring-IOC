@@ -6,8 +6,11 @@
     <!--scop-->
     <!--lazy-init-->
     <!--init-->
-    <bean id="userDao" class="com.zyq.dao.UserDao">
+    <!--autowire-->
+    <bean id="userDao" class="com.zyq.dao.UserDao " autowire="byName">
+        <!--set进行注入-->
       <!--  <property name="userService" ref="userService"/>-->
+
         <!--使用构造方法进行注入-->
         <!--name:指的是被传入的参数的名称-->
       <!--  <constructor-arg name="userService" ref="userService"/>-->
@@ -51,6 +54,4 @@
             </props>
         </property>
     </bean>
-
-
 </beans>

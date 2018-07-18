@@ -1,22 +1,27 @@
 package com.zyq.dao;
 
 import com.zyq.sevice.UserService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 /**
  * @author zyq
  * @date 2018/7/13 17:38
  */
+@Service
 public class UserDao {
-    private UserService userService;
+    @Autowired
+    private UserService userservice;
 
     public void save(){
-        userService.save();
+        System.out.println("success!!");
+        userservice.save();
     }
 
     /*set的方式进行注入*/
-   public void setUserService(UserService userService) {
+   /*public void setUserService(UserService userService) {
         this.userService = userService;
-    }
+    }*/
 
 
    /* public UserDao(UserService userService){
