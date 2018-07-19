@@ -11,12 +11,13 @@
         <!--切面-->
         <aop:aspect ref="aop">
             <!--切点-->
+            <!--每个目标对象都添加了这些通知-->
             <aop:pointcut id="pointcut" expression="execution(* com.zyq.proxy..*.*(..))"/>
 
             <aop:before method="beforeAdvice" pointcut-ref="pointcut"/>
             <aop:after method="finallyAdvice" pointcut-ref="pointcut"/>
-            <aop:after-returning method="afterAdvice" pointcut-ref="pointcut"/>
-            <aop:after-throwing method="exceptionAdvice" pointcut-ref="pointcut"/>
+            <aop:after-returning method="afterAdvice" pointcut-ref="pointcut" returning="result"/>
+            <aop:after-throwing method="exceptionAdvice" pointcut-ref="pointcut" throwing="ex"/>
 
         </aop:aspect>
     </aop:config>

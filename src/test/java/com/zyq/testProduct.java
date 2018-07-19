@@ -4,7 +4,9 @@ import com.zyq.dao.ProductDao;
 import com.zyq.entity.Product;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
@@ -56,10 +58,37 @@ public class testProduct extends testBaseCase {
         }
 
         @Test
-    public void testUpdate(){
-        Product product = productDao.findById(2);
-        product.setName("momo");
-        productDao.updateById(product);
+        public void testUpdate(){
+            Product product = productDao.findById(2);
+            product.setName("momo");
+            productDao.updateById(product);
+
+        }
+
+        @Test
+        @Transactional
+        public void testBanch(){
+        Product product1 = new Product();
+        product1.setName("13");
+        product1.setInventory("ac");
+
+        Product product2 = new Product();
+        product2.setName("68");
+        product2.setInventory("df");
+
+       List<Product> productList = new ArrayList<>();
+        productList.add(product1);
+        productList.add(product2);
+
+      /*  List<Product> productList = Arrays.asList(product1,product2);*/
+             /*会抛出异常 ,数组长度固定*/
+            /*productList.add(product1);*/
+           /* for (Product product : productList){
+                productDao.saveProduct(product);
+            }*/
+
+           productDao.saveBanch(productList);
+
         }
 
 }

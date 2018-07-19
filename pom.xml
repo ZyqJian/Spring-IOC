@@ -88,10 +88,6 @@
             <artifactId>commons-dbcp2</artifactId>
             <version>${dbcp2-version}</version>
         </dependency>
-        <dependency>
-            <groupId></groupId>
-            <artifactId></artifactId>
-        </dependency>
     </dependencies>
 
     <build>

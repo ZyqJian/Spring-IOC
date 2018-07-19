@@ -12,4 +12,5 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 //@ContextConfiguration(classes = Application.class)
 @ContextConfiguration(locations = "classpath:Spring.xml")
 public class testBaseCase {
+
 }

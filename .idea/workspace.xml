@@ -2,49 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34452138-24be-4219-a056-ddd5e2c771b7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zyq/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zyq/dao/ProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zyq/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zyq/proxy/Aop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zyq/proxy/Dell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zyq/proxy/Dell1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zyq/proxy/ProxyDell1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zyq/proxy/Sale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zyq/proxy/testDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zyq/proxy/testDell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zyq/proxy/testService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Spring-aop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zyq/testAnocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zyq/testAop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zyq/testBaseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zyq/testCglib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zyq/testJdk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zyq/testProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Spring-aop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zyq/testAnocation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zyq/testAop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zyq/testBaseCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zyq/testCglib$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zyq/testCglib.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zyq/testJdk$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zyq/testJdk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zyq/testProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/zyq/testBanch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/zyq/testJdbc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zyq/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zyq/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zyq/sevice/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zyq/sevice/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/zyq/testUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zyq/testUserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zyq/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zyq/sevice/StudentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zyq/sevice/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zyq/testStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/zyq/testStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zyq/testUserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/zyq/testUserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zyq/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zyq/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zyq/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zyq/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zyq/proxy/Aop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zyq/proxy/Aop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zyq/sevice/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zyq/sevice/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Spring-aop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Spring-aop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/zyq/testBaseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zyq/testBaseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/zyq/testProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zyq/testProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Spring-aop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Spring-aop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zyq/testProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/zyq/testProduct.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -77,26 +49,32 @@
       <file leaf-file-name="Spring.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/Spring.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            <state relative-caret-position="512">
+              <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+              <folding>
+                <element signature="e#1188#1204#0" expanded="true" />
+                <element signature="e#1242#1255#0" expanded="true" />
+                <element signature="e#1298#1316#0" expanded="true" />
+                <element signature="e#1359#1377#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2760">
-              <caret line="92" column="24" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+            <state relative-caret-position="60">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/Application.java">
+      <file leaf-file-name="testBaseCase.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testBaseCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            <state relative-caret-position="139">
+              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -104,17 +82,59 @@
       <file leaf-file-name="ProductDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/dao/ProductDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="28" column="72" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
+            <state relative-caret-position="181">
+              <caret line="58" column="45" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testBaseCase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testBaseCase.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="-521">
+              <caret line="90" column="4" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testBanch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testBanch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testJdbc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testJdbc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spring-aop.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/Spring-aop.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Aop.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/Aop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -122,35 +142,8 @@
       <file leaf-file-name="testProduct.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testProduct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1860">
-              <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testUserDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testUserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/entity/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/dao/UserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="146">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
             </state>
           </provider>
         </entry>
@@ -176,13 +169,10 @@
         <option value="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/appicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zyq/sevice/StudentService.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zyq/testStudent.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyq/Sale.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zyq/proxy/Aop.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/Spring-aop.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyq/proxy/Sale.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyq/proxy/Dell.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zyq/testAop.java" />
@@ -194,18 +184,24 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zyq/proxy/testDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyq/proxy/testService.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zyq/testAnocation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zyq/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyq/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyq/sevice/UserService.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zyq/testUserDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyq/entity.java" />
         <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/com/zyq/testBaseCase.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/Spring.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zyq/testFoundation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyq/entity/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zyq/sevice/StudentService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Spring-aop.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zyq/testProduct1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zyq/testJdbc.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zyq/testBaseCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zyq/Application.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zyq/proxy/Aop.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Spring.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyq/dao/ProductDao.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zyq/testProduct.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -242,42 +238,6 @@
           <item name="Spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework:spring-context:4.3.14.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="junit:junit:4.12" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework:spring-aspects:4.3.14.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework:spring-test:4.3.14.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework:spring-jdbc:4.3.14.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.apache.commons:commons-dbcp2:2.1.1" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
       </expand>
       <select />
     </treeState>
@@ -299,8 +259,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -359,6 +317,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zyq" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zyq" type="462c0819:PsiDirectoryNode" />
               <item name="sevice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -394,6 +361,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -418,7 +387,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.testProduct.testUpdate">
+  <component name="RunManager" selected="JUnit.testProduct.testBanch">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -438,7 +407,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="testProduct.testCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testAop.teatAopDell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring" />
       <extension name="coverage">
         <pattern>
@@ -449,8 +418,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.zyq" />
-      <option name="MAIN_CLASS_NAME" value="com.zyq.testProduct" />
-      <option name="METHOD_NAME" value="testCount" />
+      <option name="MAIN_CLASS_NAME" value="com.zyq.testAop" />
+      <option name="METHOD_NAME" value="teatAopDell" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -461,7 +430,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="testProduct.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testProduct.testBanch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring" />
       <extension name="coverage">
         <pattern>
@@ -473,7 +442,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.zyq" />
       <option name="MAIN_CLASS_NAME" value="com.zyq.testProduct" />
-      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="METHOD_NAME" value="testBanch" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -484,7 +453,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="testProduct.testMapOfList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testProduct.testFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring" />
       <extension name="coverage">
         <pattern>
@@ -496,7 +465,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.zyq" />
       <option name="MAIN_CLASS_NAME" value="com.zyq.testProduct" />
-      <option name="METHOD_NAME" value="testMapOfList" />
+      <option name="METHOD_NAME" value="testFindById" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -602,19 +571,19 @@
     </configuration>
     <list>
       <item itemvalue="Maven.maven-tomcat" />
-      <item itemvalue="JUnit.testProduct.testSave" />
-      <item itemvalue="JUnit.testProduct.testFindAll" />
-      <item itemvalue="JUnit.testProduct.testCount" />
-      <item itemvalue="JUnit.testProduct.testMapOfList" />
       <item itemvalue="JUnit.testProduct.testUpdate" />
+      <item itemvalue="JUnit.testAop.teatAopDell" />
+      <item itemvalue="JUnit.testProduct.testSave" />
+      <item itemvalue="JUnit.testProduct.testFindById" />
+      <item itemvalue="JUnit.testProduct.testBanch" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.testProduct.testUpdate" />
-        <item itemvalue="JUnit.testProduct.testMapOfList" />
-        <item itemvalue="JUnit.testProduct.testCount" />
-        <item itemvalue="JUnit.testProduct.testFindAll" />
+        <item itemvalue="JUnit.testProduct.testBanch" />
         <item itemvalue="JUnit.testProduct.testSave" />
+        <item itemvalue="JUnit.testProduct.testFindById" />
+        <item itemvalue="JUnit.testAop.teatAopDell" />
+        <item itemvalue="JUnit.testProduct.testUpdate" />
       </list>
     </recent_temporary>
   </component>
@@ -637,74 +606,76 @@
       <workItem from="1531555651962" duration="592000" />
       <workItem from="1531701420040" duration="17473000" />
       <workItem from="1531787704774" duration="17123000" />
-      <workItem from="1531874502114" duration="277000" />
+      <workItem from="1531874502114" duration="11057000" />
+      <workItem from="1531888200151" duration="5089000" />
+      <workItem from="1531895668677" duration="12292000" />
+      <workItem from="1531960830150" duration="4830000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="testProduct_testFindById - 2018.07.17 at 14h 21m 50s.xml">
-      <configuration name="testProduct.testFindById" configurationId="JUnit" />
+    <history-entry file="testProduct_testBanch - 2018.07.18 at 17h 37m 37s.xml">
+      <configuration name="testProduct.testBanch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testProduct_testFindById - 2018.07.17 at 14h 36m 26s.xml">
-      <configuration name="testProduct.testFindById" configurationId="JUnit" />
+    <history-entry file="testProduct_testBanch - 2018.07.18 at 17h 39m 21s.xml">
+      <configuration name="testProduct.testBanch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testProduct_testFindById - 2018.07.17 at 14h 38m 16s.xml">
-      <configuration name="testProduct.testFindById" configurationId="JUnit" />
+    <history-entry file="testProduct_testBanch - 2018.07.18 at 17h 42m 07s.xml">
+      <configuration name="testProduct.testBanch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testProduct_testSave - 2018.07.17 at 14h 46m 12s.xml">
-      <configuration name="testProduct.testSave" configurationId="JUnit" />
+    <history-entry file="testProduct_testBanch - 2018.07.18 at 17h 44m 43s.xml">
+      <configuration name="testProduct.testBanch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testProduct_testSave - 2018.07.17 at 14h 47m 54s.xml">
-      <configuration name="testProduct.testSave" configurationId="JUnit" />
+    <history-entry file="testProduct_testBanch - 2018.07.18 at 17h 45m 13s.xml">
+      <configuration name="testProduct.testBanch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testProduct_testFindAll - 2018.07.17 at 14h 52m 55s.xml">
-      <configuration name="testProduct.testFindAll" configurationId="JUnit" />
+    <history-entry file="testProduct_testBanch - 2018.07.18 at 17h 46m 39s.xml">
+      <configuration name="testProduct.testBanch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testProduct_testCount - 2018.07.17 at 14h 59m 33s.xml">
-      <configuration name="testProduct.testCount" configurationId="JUnit" />
+    <history-entry file="testProduct_testBanch - 2018.07.18 at 17h 47m 17s.xml">
+      <configuration name="testProduct.testBanch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testProduct_testMapOfList - 2018.07.17 at 15h 08m 05s.xml">
-      <configuration name="testProduct.testMapOfList" configurationId="JUnit" />
+    <history-entry file="testProduct_testBanch - 2018.07.18 at 17h 48m 31s.xml">
+      <configuration name="testProduct.testBanch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testProduct_testUpdate - 2018.07.17 at 15h 18m 45s.xml">
-      <configuration name="testProduct.testUpdate" configurationId="JUnit" />
+    <history-entry file="testProduct_testBanch - 2018.07.18 at 17h 54m 29s.xml">
+      <configuration name="testProduct.testBanch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testProduct_testUpdate - 2018.07.17 at 15h 26m 55s.xml">
-      <configuration name="testProduct.testUpdate" configurationId="JUnit" />
+    <history-entry file="testProduct_testBanch - 2018.07.19 at 09h 32m 28s.xml">
+      <configuration name="testProduct.testBanch" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56778000" />
+    <option name="totallyTimeSpent" value="89769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Event Log" order="7" side_tool="true" weight="0.32925898" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.53246754" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32925898" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.21269296" />
       <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32933104" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info id="Image Layers" order="2" />
+      <window_info id="Image Layers" order="4" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Event Log" order="7" side_tool="true" weight="0.32925898" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.53246754" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.27444252" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.14234234" />
       <window_info anchor="bottom" id="Spring" order="0" weight="0.3070326" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22994652" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="right" id="Database" order="8" weight="0.32925898" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
+      <window_info active="true" anchor="top" content_ui="combo" id="Project" order="0" visible="true" weight="0.3783784" />
+      <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.21269296" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32933104" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
@@ -715,9 +686,10 @@
     <layout-to-restore>
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.15437393" />
       <window_info anchor="bottom" id="Spring" order="0" weight="0.3070326" />
       <window_info id="Image Layers" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3927959" />
+      <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -726,24 +698,23 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Event Log" order="9" side_tool="true" weight="0.32925898" />
+      <window_info anchor="right" id="Event Log" order="7" side_tool="true" weight="0.32925898" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32933104" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24980901" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.53246754" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22994652" />
-      <window_info anchor="right" id="Database" order="7" weight="0.32925898" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.53246754" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22536287" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32925898" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.5145798" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.21269296" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -758,45 +729,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/sevice/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -890,145 +822,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/Sale.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/Dell1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testAop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/InvocationHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testJdk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/Dell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testCglib.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/testService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testAnocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/Aop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/ProxyDell1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/Sale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/testDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/testDell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/sevice/StudentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -1047,66 +844,213 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Spring-aop.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testUserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="361">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testUserDao.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testStudent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        <state relative-caret-position="180">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/Sale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/testDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/testDell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/Dell1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/ProxyDell1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testFoundation.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testAnocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/Dell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/entity/Product.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/testService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testCglib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testBaseCase.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testAop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="330">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testProduct.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testJdk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1860">
-          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        <state relative-caret-position="660">
+          <caret line="22" column="67" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.14.RELEASE/spring-jdbc-4.3.14.RELEASE-sources.jar!/org/springframework/jdbc/core/JdbcTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2760">
-          <caret line="92" column="24" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+        <state relative-caret-position="335">
+          <caret line="179" column="30" lean-forward="true" selection-start-line="179" selection-start-column="30" selection-end-line="179" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/dao/ProductDao.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testProduct1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/sevice/StudentService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="28" column="72" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        <state relative-caret-position="330">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        <state relative-caret-position="240">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Spring-aop.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/proxy/Aop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testBanch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testJdbc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyq/dao/ProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="58" column="45" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-521">
+          <caret line="90" column="4" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <element signature="e#1188#1204#0" expanded="true" />
+            <element signature="e#1242#1255#0" expanded="true" />
+            <element signature="e#1298#1316#0" expanded="true" />
+            <element signature="e#1359#1377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zyq/testBaseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
         </state>
       </provider>
     </entry>

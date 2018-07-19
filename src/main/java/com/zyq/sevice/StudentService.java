@@ -11,14 +11,22 @@ import java.util.Set;
  * @author zyq
  * @date 2018/7/14 11:03
  */
+
 public class StudentService {
     /*基本类型的注入*/
+
     private Integer age;
+
     private String name;
+
     private Map<String,String> map;
+
     private List<String> list;
+
     private Properties properties;
+
     private Set<Double> doubles;
+
     private UserDao userDao;
 
 

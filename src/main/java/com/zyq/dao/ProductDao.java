@@ -17,6 +17,7 @@ import java.util.Map;
  */
 @Repository
 public class ProductDao {
+
     @Autowired
     private JdbcTemplate jdbcTemplate;
 
@@ -26,8 +27,9 @@ public class ProductDao {
     }
 
     public void saveProduct(Product product){
-        String sql ="insert into product (inventory,name) values (?,?)";
-        jdbcTemplate.update(sql,product.getName(),product.getInventory());
+            String sql = "insert into product (inventory,name) values (?,?)";
+            jdbcTemplate.update(sql, product.getName(), product.getInventory());
+
     }
 
     public List<Product> findAll(){
@@ -50,5 +52,12 @@ public class ProductDao {
         jdbcTemplate.update(sql,product.getName(),product.getId());
     }
 
+    public void saveBanch(List<Product> productList){
+        String sql="insert into product (inventory,name) values (?,?)";
+        for(Product product : productList){
+            jdbcTemplate.update(sql,product.getName(),product.getInventory());
+            /*throw new RuntimeException();*/
+        }
+    }
 
 }
